@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapper device="SIMPLE_MIDI_5042_133" version="850" date="2024-04-17">
+	<map value="0-ENCODER48" action="deck 1 effect_active" />
+	<map value="0-ENCODER64" action="deck 2  &amp; effect_active" />
+	<map value="0-SLIDER20" action="deck 1 &amp; effect_slider 1" />
+	<map value="0-SLIDER21" action="deck 1 &amp; effect_slider 2" />
+	<map value="0-SLIDER22" action="deck 1 &amp; effect_slider 3" />
+	<map value="0-SLIDER23" action="deck 1 &amp; effect_slider 4" />
+	<map value="0-SLIDER24" action="deck 1 &amp; effect_slider 5" />
+	<map value="0-SLIDER25" action="deck 1 &amp; effect_slider 6" />
+	<map value="0-SLIDER27" action="deck 2 &amp; effect_slider 1" />
+	<map value="0-SLIDER28" action="deck 2 &amp; effect_slider 2" />
+	<map value="0-SLIDER29" action="deck 2 &amp; effect_slider 3" />
+	<map value="0-SLIDER30" action="deck 2 &amp; effect_slider 4" />
+	<map value="0-SLIDER31" action="deck 2 &amp; effect_slider 5" />
+	<map value="0-SLIDER35" action="deck 2 &amp; effect_slider 6" />
+	<map value="0-BUTTON48" action="deck 1 &amp; pad 1" />
+	<map value="0-BUTTON49" action="deck 1 &amp; pad 2" />
+	<map value="0-BUTTON50" action="deck 1 &amp; pad 3" />
+	<map value="0-BUTTON51" action="deck 1 &amp; pad 4" />
+	<map value="0-BUTTON44" action="deck 1 &amp; pad 5" />
+	<map value="0-BUTTON45" action="deck 1 &amp; pad 6" />
+	<map value="0-BUTTON46" action="deck 1 &amp; pad 7" />
+	<map value="0-BUTTON47" action="deck 1 &amp; pad 8" />
+	<map value="0-BUTTON40" action="deck 2 &amp; pad 1" />
+	<map value="0-BUTTON41" action="deck 2 &amp; pad 2" />
+	<map value="0-BUTTON42" action="deck 2 &amp; pad 3" />
+	<map value="0-BUTTON43" action="deck 2 &amp; pad 4" />
+	<map value="0-BUTTON36" action="deck 2 &amp; pad 5" />
+	<map value="0-BUTTON37" action="deck 2 &amp; pad 6" />
+	<map value="0-BUTTON38" action="deck 2 &amp; pad 7" />
+	<map value="0-BUTTON39" action="deck 2 &amp; pad 8" />
+	<map value="0-PITCH" action="deck 1 &amp; effect_select -1" />
+	<map value="0-SLIDER1" action="deck 2 &amp; effect_select +1" />
+</mapper>
